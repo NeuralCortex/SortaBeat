@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Comment</comment>
+<entry key="SCROLL_SPEED">0.001</entry>
+<entry key="PREFIX_LENGTH">3</entry>
+</properties>
