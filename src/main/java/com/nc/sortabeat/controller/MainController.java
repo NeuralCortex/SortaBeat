@@ -319,7 +319,7 @@ public class MainController implements Initializable {
             }
         });
         
-        String last = Globals.propman.getProperty(Globals.OPEN_DIR_PATH, System.getProperty("user.home"));
+        String last = Globals.propman.getProperty(Globals.OPEN_DIR_PATH, System.getProperty("user.dir"));
         File file = new File(last);
         if (file.isDirectory()) {
             loadFiles(file);

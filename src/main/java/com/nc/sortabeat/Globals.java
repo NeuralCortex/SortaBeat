@@ -33,7 +33,7 @@ public class Globals {
     public static final String PNG_REVERT = "/images/revert.png";
     public static final String PNG_SAVE_AS = "/images/saveas.png";
 
-    public static final String CSS_PATH = "/com/nc/sortabeat/style/sorta.css";
+    public static final String CSS_PATH = "/com/nc/sortabeat/style/nc.css";
 
     //FXML
     public static final String FXML_PATH = "/com/nc/sortabeat/fxml/";
